@@ -1,0 +1,5 @@
+var miVariable = "Hola mundo";
+    console.log(miVariable);
+
+miVariable = 16;
+  console.log(miVariable);
